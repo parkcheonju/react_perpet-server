@@ -25,7 +25,7 @@
 ### Backend
 
 ```bash
-$ git clone https://github.com/wooyoung6685/perpetserver.git
+$ git clone https://github.com/parkcheonju/react_perpet-server.git
 $ cd perpetserver
 ```
 
